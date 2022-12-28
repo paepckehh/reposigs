@@ -1,11 +1,11 @@
-#  OVERVIEW 
+#  OVERVIEW
 
 [paepche.de/repo.signatures](https://paepcke.de/repo.signatures)
 
 git repo transparency logs, because of git still using sha1 for
 commits/trees
 
-# REMINDER 
+# REMINDER
 
 this repo history will be switched to public archive / read-only-mode
 as soon all git repos that are tracked migrated to git sha256 and signed
